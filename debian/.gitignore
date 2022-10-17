@@ -1,0 +1,6 @@
+*.substvars
+*debhelper*
+.debhelper
+autoreconf.*
+catatonit
+files

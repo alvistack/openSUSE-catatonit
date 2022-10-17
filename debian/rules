@@ -1,0 +1,16 @@
+#!/usr/bin/make -f
+
+SHELL := /bin/bash
+
+override_dh_auto_configure:
+	dh_auto_configure
+
+override_dh_auto_install:
+	dh_auto_install --destdir=debian/tmp
+
+override_dh_auto_test:
+
+override_dh_auto_clean:
+
+%:
+	dh $@ --buildsystem=autoconf
