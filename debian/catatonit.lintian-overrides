@@ -1,0 +1,6 @@
+catatonit: copyright-without-copyright-notice
+catatonit: description-synopsis-starts-with-article
+catatonit: initial-upload-closes-no-bugs
+catatonit: no-manual-page
+catatonit: statically-linked-binary
+catatonit: zero-byte-file-in-doc-directory
