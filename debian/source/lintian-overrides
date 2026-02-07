@@ -1,0 +1,3 @@
+catatonit source: configure-generated-file-in-source
+catatonit source: file-without-copyright-information
+catatonit source: no-debian-changes
